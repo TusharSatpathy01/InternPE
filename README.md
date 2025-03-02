@@ -37,11 +37,11 @@ How to Play:<br>
 2. The goal is to connect four pieces in a row, column, or diagonally.<br>
 3. The game continues until a player wins or the board is full.<br>
 
-#Installation & Usage<br>
+# Installation & Usage<br>
 To run any of the games, follow these steps:<br>
 
 1. Clone the repository:<br>
-git clone https://github.com/yourusername/internpe-tasks.git<br>
+[https://github.com/TusharSatpathy01/InternPE.git]<br>
 
 2. Navigate to the project folder:<br>
 cd internpe-tasks<br>
