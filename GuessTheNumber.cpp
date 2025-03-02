@@ -22,7 +22,7 @@ int main() {
         else
             cout << "You guessed it! The number was " << number << endl;
 
-    } while(guess != number); // The loop runs until guessing number is equal to random number
+    } while(guess != number); // The loop runs until guessing number is equal to random Number
 
     return 0;
 }
